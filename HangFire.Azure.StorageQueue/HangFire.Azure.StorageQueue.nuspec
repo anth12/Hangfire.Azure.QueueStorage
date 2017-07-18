@@ -1,0 +1,20 @@
+﻿<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>HangFire.Azure.StorageQueue</id>
+    <version>$version$</version>
+    <title>HangFire Azure Queue Storage</title>
+    <authors>Anthony Halliday</authors>
+    <owners>anth12</owners>
+    <projectUrl>https://github.com/anth12/HangFire.Azure.StorageQueue</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://raw.github.com/anth12/HangFire.Azure.StorageQueue/master/license.txt</licenseUrl>
+    <description>$description$</description>
+    <copyright></copyright>
+    <tags>Azure QueueStorage Async Background Fire-And-Forget Jobs Tasks Workers Threading Queue</tags>
+	<dependencies>
+		<dependency id="HangFire.SqlServer" version="1.6.14" />
+		<dependency id="WindowsAzure.Storage" version="8.0.0" />
+	</dependencies>
+  </metadata>
+</package>
